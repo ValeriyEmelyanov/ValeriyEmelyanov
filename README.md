@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ValeriyEmelyanov
 - 👀 I’m interested in Java and Kotlin
 - 🌱 I’m currently learning Java and Kotlin
-- 💞️ I’m looking to collaborate on ... (I haven 't figured out how to formulate it yet)
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me: emelva@rambler.ru
 
 <!---
