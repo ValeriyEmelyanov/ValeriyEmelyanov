@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ValeriyEmelyanov
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java, Kotlin and a bit of Scala
-- 💞️ I’m looking to collaborate on ... 
+- 👀 I’m interested in Java, Kotlin, Scala and Pyton.
+- 🌱 I’m currently learning Java and Scala.
+- 💞️ I’m looking to collaborate in interesting projects to gain experience. 
 - 📫 How to reach me: emelva@rambler.ru
 
 <!---
