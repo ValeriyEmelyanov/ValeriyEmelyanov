@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ValeriyEmelyanov
 - 👀 I’m interested in Java, Kotlin, Scala, Pyton, microservices and software architecture.
-- 🌱 I’m currently learning Java, Kotlin and Redis.
+- 🌱 I’m currently learning Java and Python.
 - 💞️ I’m looking to collaborate in interesting projects to gain experience. 
 - 📫 How to reach me: emelva@rambler.ru
 
